@@ -1,0 +1,1374 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&   filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&    hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&    exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&    orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&    lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&    rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&    imgDominantColor={imgDominantColor?}&alt=json"  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - lectures",
+        "totalResults": "11100000",
+        "searchTerms": "lectures",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "013282945793059621378:iqugwg8v49u"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - lectures",
+        "totalResults": "11100000",
+        "searchTerms": "lectures",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "013282945793059621378:iqugwg8v49u"
+      }
+    ]
+  },
+  "context": {
+    "title": "Gopher-Article"
+  },
+  "searchInformation": {
+    "searchTime": 0.802242,
+    "formattedSearchTime": "0.80",
+    "totalResults": "11100000",
+    "formattedTotalResults": "11,100,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Lecture Me. Really. - The New York Times",
+      "htmlTitle": "<b>Lecture</b> Me. Really. - The New York Times",
+      "link": "https://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html",
+      "displayLink": "www.nytimes.com",
+      "snippet": "Oct 18, 2015 ... The piece of technology that I really needed is centuries old: a simple wooden \nlectern to hold my lecture notes. I managed to obtain one, but it ...",
+      "htmlSnippet": "Oct 18, 2015 <b>...</b> The piece of technology that I really needed is centuries old: a simple wooden <br>\nlectern to hold my <b>lecture</b> notes. I managed to obtain one, but it&nbsp;...",
+      "formattedUrl": "https://www.nytimes.com/2015/10/18/opinion/.../lecture-me-really.html",
+      "htmlFormattedUrl": "https://www.nytimes.com/2015/10/18/opinion/.../<b>lecture</b>-me-really.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "287",
+            "height": "176",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmgU7TfzPPZgzf03mH2Cpql2m4P8D654qIur4RZbmxY1__E2OoKiKTEK19"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://static01.nyt.com/images/2015/10/18/opinion/sunday/18worthen/18worthen-master1050.jpg",
+            "height": "643",
+            "width": "1050",
+            "caption": "Credit Baptiste Alchourroun",
+            "description": "Credit Baptiste Alchourroun",
+            "copyrightholder": "Credit Baptiste Alchourroun"
+          }
+        ],
+        "organization": [
+          {
+            "name": "The New York Times Company",
+            "tickersymbol": "NYSE NYT"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "sourceapp": "nyt-v5",
+            "applicationname": "article",
+            "al:android:url": "nytimes://reader/id/100000003979558",
+            "al:android:package": "com.nytimes.android",
+            "al:android:app_name": "NYTimes",
+            "twitter:app:name:googleplay": "NYTimes",
+            "twitter:app:id:googleplay": "com.nytimes.android",
+            "twitter:app:url:googleplay": "nytimes://reader/id/100000003979558",
+            "al:iphone:url": "nytimes://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html",
+            "al:iphone:app_store_id": "284862083",
+            "al:iphone:app_name": "NYTimes",
+            "al:ipad:url": "nytimes://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html",
+            "al:ipad:app_store_id": "357066198",
+            "al:ipad:app_name": "NYTimes",
+            "hdl_p": "Lecture Me. Really.",
+            "genre": "Op-Ed",
+            "articleid": "100000003979558",
+            "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+            "hdl": "Lecture Me. Really.",
+            "col": "Contributing Op-Ed Writer",
+            "pdate": "20151017",
+            "utime": "20151128040002",
+            "ptime": "20151017143006",
+            "displaydate": "Oct. 17, 2015",
+            "dat": "Oct. 17, 2015",
+            "lp": "The vogue for active learning blinds us to the value of ancient teaching methods.",
+            "msapplication-starturl": "http://www.nytimes.com",
+            "cre": "The New York Times",
+            "slug": "18worthen",
+            "article:collection": "https://static01.nyt.com/services/json/sectionfronts/opinion/index.jsonp",
+            "sectionfront_jsonp": "https://static01.nyt.com/services/json/sectionfronts/opinion/index.jsonp",
+            "og:url": "https://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html",
+            "og:type": "article",
+            "og:title": "Lecture Me. Really.",
+            "og:description": "The vogue for active learning blinds us to the value of ancient teaching methods.",
+            "article:published": "2015-10-17T14:30:06-04:00",
+            "article:modified": "2015-11-28T04:00:02-05:00",
+            "article:section": "Opinion",
+            "article:section-taxonomy-id": "AD8090D7-4137-4D71-84C8-70DA3BD89778",
+            "article:section_url": "https://www.nytimes.com/pages/opinion/index.html",
+            "article:top-level-section": "opinion",
+            "fb:app_id": "9869919170",
+            "twitter:url": "https://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html",
+            "twitter:title": "Lecture Me. Really.",
+            "twitter:description": "The vogue for active learning blinds us to the value of ancient teaching methods.",
+            "author": "Molly Worthen",
+            "tone": "opinion",
+            "byl": "By MOLLY WORTHEN",
+            "pt": "article"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static01.nyt.com/images/2015/10/18/opinion/sunday/18worthen/18worthen-master1050.jpg"
+          }
+        ],
+        "newsarticle": [
+          {
+            "alternativeheadline": "Lecture Me. Really.",
+            "description": "The vogue for active learning blinds us to the value of ancient teaching methods.",
+            "genre": "Op-Ed",
+            "identifier": "100000003979558",
+            "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+            "inlanguage": "en-US",
+            "datepublished": "2015-10-17T14:30:06-04:00",
+            "datemodified": "2015-11-28T04:00:02-05:00",
+            "articlesection": "Opinion",
+            "thumbnailurl": "https://static01.nyt.com/images/2015/10/18/opinion/sunday/18worthen/18worthen-thumbStandard.jpg",
+            "headline": "Lecture Me. Really.",
+            "printedition": "New York edition",
+            "copyrightnotice": "© 2017 The New York Times Company",
+            "copyrightyear": "2017"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Benjamin Dean Astronomy Lectures | California ... - San Francisco",
+      "htmlTitle": "Benjamin Dean Astronomy <b>Lectures</b> | California ... - San Francisco",
+      "link": "http://www.calacademy.org/events/benjamin-dean-astronomy-lectures",
+      "displayLink": "www.calacademy.org",
+      "snippet": "Events & Exhibits · Daily Calendar · NightLife · Sleepovers · Lectures & \nWorkshops · Plan an Event · Explore Science · Explore Science · Live Webcams · \nOur ...",
+      "htmlSnippet": "Events &amp; Exhibits &middot; Daily Calendar &middot; NightLife &middot; Sleepovers &middot; <b>Lectures</b> &amp; <br>\nWorkshops &middot; Plan an Event &middot; Explore Science &middot; Explore Science &middot; Live Webcams &middot; <br>\nOur&nbsp;...",
+      "cacheId": "iJPeZPw83fsJ",
+      "formattedUrl": "www.calacademy.org/events/benjamin-dean-astronomy-lectures",
+      "htmlFormattedUrl": "www.calacademy.org/events/benjamin-dean-astronomy-<b>lectures</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "251",
+            "height": "201",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qMCJ3eZAIrYZURTMTfdfc3vlxudctKdFulXs6w3jj0HUDVKymMdldnA"
+          }
+        ],
+        "organization": [
+          {
+            "name": "California Academy of Sciences",
+            "email": "info@calacademy.org",
+            "telephone": "(415) 379-8000"
+          }
+        ],
+        "postaladdress": [
+          {
+            "streetaddress": "Golden Gate Park",
+            "addresslocality": "San Francisco",
+            "addressregion": "CA",
+            "postalcode": "94118",
+            "addresscountry": "United States"
+          }
+        ],
+        "metatags": [
+          {
+            "fb:pages": "19356432310",
+            "og:site_name": "California Academy of Sciences",
+            "og:type": "article",
+            "og:title": "Benjamin Dean Astronomy Lectures | California Academy of Sciences",
+            "og:url": "http://www.calacademy.org/events/benjamin-dean-astronomy-lectures",
+            "og:image": "http://www.calacademy.org/sites/default/files/assets/images/misc/12.10.14bd.jpg",
+            "og:image:secure_url": "https://www.calacademy.org/sites/default/files/assets/images/misc/12.10.14bd.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@calacademy",
+            "twitter:creator": "@calacademy",
+            "twitter:url": "http://www.calacademy.org/events/benjamin-dean-astronomy-lectures",
+            "twitter:title": "Benjamin Dean Astronomy Lectures | California Academy of Sciences",
+            "twitter:image:src": "http://www.calacademy.org/sites/default/files/assets/images/misc/12.10.14bd.jpg",
+            "twitter:image:width": "1280",
+            "twitter:image:height": "1024",
+            "mobileoptimized": "width",
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=0, maximum-scale=1.0",
+            "apple-touch-fullscreen": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.calacademy.org/sites/default/files/assets/images/misc/12.10.14bd.jpg"
+          }
+        ],
+        "article": [
+          {
+            "image": "http://www.calacademy.org/sites/default/files/assets/images/misc/12.10.14bd.jpg",
+            "name": "Benjamin Dean Astronomy Lectures | California Academy of Sciences"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Lectures",
+      "htmlTitle": "The <b>Lectures</b>",
+      "link": "http://pathwork.org/the-lectures/",
+      "displayLink": "pathwork.org",
+      "snippet": "The lectures given by Eva Pierrakos from 1957 until her death in 1979 are the \nheart of the Pathwork®. They are an astonishing roadmap to self-responsibility, ...",
+      "htmlSnippet": "The <b>lectures</b> given by Eva Pierrakos from 1957 until her death in 1979 are the <br>\nheart of the Pathwork®. They are an astonishing roadmap to self-responsibility,&nbsp;...",
+      "cacheId": "OozwTG2ouj0J",
+      "formattedUrl": "pathwork.org/the-lectures/",
+      "htmlFormattedUrl": "pathwork.org/the-<b>lectures</b>/",
+      "pagemap": {
+        "metatags": [
+          {
+            "handheldfriendly": "True",
+            "mobileoptimized": "320",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "msapplication-tileimage": "http://pathwork.org/wp-content/uploads/2017/01/cropped-IPF-logo-FLATrev-3-copy-270x270.jpg"
+          }
+        ],
+        "blogposting": [
+          {
+            "headline": "The Lectures",
+            "articlebody": "Share this...The lectures given by Eva Pierrakos from 1957 until her death in 1979 are the heart of the Pathwork®. They are an astonishing roadmap to self-responsibility, self-knowledge, and..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Lectures - Chautauqua",
+      "htmlTitle": "<b>Lectures</b> - Chautauqua",
+      "link": "http://ciweb.org/season/lectures",
+      "displayLink": "ciweb.org",
+      "snippet": "morning lecture Ideas and opinions are exchanged in an open, challenging \natmosphere, and Chautauqua's knowledgeable audiences have the opportunity \nto ...",
+      "htmlSnippet": "morning <b>lecture</b> Ideas and opinions are exchanged in an open, challenging <br>\natmosphere, and Chautauqua&#39;s knowledgeable audiences have the opportunity <br>\nto&nbsp;...",
+      "cacheId": "SgNfeDolpTIJ",
+      "formattedUrl": "ciweb.org/season/lectures",
+      "htmlFormattedUrl": "ciweb.org/season/<b>lectures</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "275",
+            "height": "183",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_yNngFTbBoRFeM1ISV8KW8smk8d0EsXZq3XqpyMKH5bgU2D9f86FRBNU"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "author": "Super User",
+            "twitter:card": "summary",
+            "twitter:url": "http://ciweb.org/season/lectures",
+            "twitter:title": "Lectures",
+            "twitter:image": "http://ciweb.org/images/Lecturers/lecture%20thumbnails/morning_lecture.jpg",
+            "og:title": "Lectures",
+            "og:type": "article",
+            "og:url": "http://ciweb.org/season/lectures",
+            "og:site_name": "Chautauqua Institution",
+            "og:image": "http://ciweb.org/images/Lecturers/lecture%20thumbnails/morning_lecture.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://ciweb.org/images/Lecturers/lecture%20thumbnails/morning_lecture.jpg"
+          }
+        ],
+        "article": [
+          {
+            "inlanguage": "en-GB",
+            "name": "Lectures",
+            "articlebody": "Morning Lectures Ideas and opinions are exchanged in an open, challenging atmosphere, and Chautauqua's knowledgeable audiences have the opportunity to participate in question-and-answer sessions..."
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "2017 Season",
+            "name": "2017 Season",
+            "position": "2"
+          },
+          {
+            "name": "Lectures",
+            "position": "3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Let's ban PowerPoint in lectures - it makes students more stupid and ...",
+      "htmlTitle": "Let&#39;s ban PowerPoint in <b>lectures</b> - it makes students more stupid and ...",
+      "link": "http://www.independent.co.uk/news/education/lets-ban-powerpoint-in-lectures-it-makes-students-more-stupid-and-professors-more-boring-a7597506.html",
+      "displayLink": "www.independent.co.uk",
+      "snippet": "Feb 24, 2017 ... Any university teacher who does not harbour a painful recollection of a failed \nlecture is a liar. On one such occasion, I felt early on that I had lost ...",
+      "htmlSnippet": "Feb 24, 2017 <b>...</b> Any university teacher who does not harbour a painful recollection of a failed <br>\n<b>lecture</b> is a liar. On one such occasion, I felt early on that I had lost&nbsp;...",
+      "cacheId": "LEb5s91kBWYJ",
+      "formattedUrl": "www.independent.co.uk/.../lets-ban-powerpoint-in-lectures-it-makes-students -more-stupid-and-professors-more-boring-a7597506.html",
+      "htmlFormattedUrl": "www.independent.co.uk/.../lets-ban-powerpoint-in-<b>lectures</b>-it-makes-students -more-stupid-and-professors-more-boring-a7597506.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "259",
+            "height": "194",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9dT8peo55IEqn9fKTidXObdqVG0KVn0eF6StrOIjpZjbh6LjpkZt0UQe"
+          }
+        ],
+        "imageobject": [
+          {
+            "representativeofpage": "true",
+            "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/24/12/banning-powerpoint.jpg",
+            "width": "824",
+            "height": "618",
+            "description": "Is the next slide more interesting? Shutterstock"
+          }
+        ],
+        "person": [
+          {
+            "name": "Bent Meier Sørensen",
+            "sameas": "Bent Meier Sørensen"
+          }
+        ],
+        "organization": [
+          {
+            "name": "The Independent",
+            "sameas": "http://www.independent.co.uk/",
+            "logo": "https://static.independent.co.uk/static-assets/brand-logo.png"
+          }
+        ],
+        "metatags": [
+          {
+            "article:external_link_count": "10",
+            "article:internal_link_count": "0",
+            "article:author_name": "Bent Meier Sørensen",
+            "viewport": "width=device-width, initial-scale=1",
+            "apple-itunes-app": "app-id=499587380, affiliate-data=1l3v95Z",
+            "article:video_count": "0",
+            "article:section": "Education",
+            "article:content_type": "story",
+            "article:image_count": "2",
+            "article:word_count": "998",
+            "article:embed_count": "0",
+            "fb:admins": "729735830",
+            "fb:app_id": "235586169789578",
+            "og:site_name": "The Independent",
+            "og:type": "article",
+            "og:title": "Universities should ban PowerPoint - now",
+            "og:url": "http://www.independent.co.uk/news/education/lets-ban-powerpoint-in-lectures-it-makes-students-more-stupid-and-professors-more-boring-a7597506.html",
+            "og:description": "Any university teacher who does not harbour a painful recollection of a failed lecture is a liar. On one such occasion, I felt early on that I had lost the students entirely: those who hadn’t sunk into comatose oblivion were listless and anxious. Ungracefully, I threw myself even deeper into my PowerPoint presentation to save me from total ruin. Years later, I can still hear myself reading aloud the bullet points from the overhead and see myself turning around to the students to sell these points to them.",
+            "og:updated_time": "2017-02-24T12:56:31+00:00",
+            "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/24/12/banning-powerpoint.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@independent",
+            "twitter:title": "Let's ban PowerPoint in lectures - it makes students more stupid and professors more boring",
+            "twitter:url": "http://www.independent.co.uk/news/education/lets-ban-powerpoint-in-lectures-it-makes-students-more-stupid-and-professors-more-boring-a7597506.html",
+            "twitter:description": "Any university teacher who does not harbour a painful recollection of a failed lecture is a liar. On one such occasion, I felt early on that I had lost the students entirely: those who hadn’t sunk into comatose oblivion were listless and anxious. Ungracefully, I threw myself even deeper into my PowerPoint presentation to save me from total ruin. Years later, I can still hear myself reading aloud the bullet points from the overhead and see myself turning around to the students to sell these points to them.",
+            "og:locale": "en_GB",
+            "article:tag": "Universities",
+            "article:published_time": "2017-02-24T12:51:25+00:00",
+            "article:modified_time": "2017-02-24T12:56:31+00:00",
+            "msvalidate.01": "58C7FB6B9237322BB527AA3C68656AE3"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/02/24/12/banning-powerpoint.jpg"
+          }
+        ],
+        "newsarticle": [
+          {
+            "mainentityofpage": "http://www.independent.co.uk/news/education/lets-ban-powerpoint-in-lectures-it-makes-students-more-stupid-and-professors-more-boring-a7597506.html",
+            "headline": "Let's ban PowerPoint in lectures - it makes students more stupid and professors more boring",
+            "articlebody": "Any university teacher who does not harbour a painful recollection of a failed lecture is a liar. On one such occasion, I felt early on that I had lost the students entirely: those who hadn’t...",
+            "datepublished": "2017-02-24T12:55:00+00:00",
+            "keywords": "Universities"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Words & Pictures – Pittsburgh Arts & Lectures",
+      "htmlTitle": "Words &amp; Pictures – Pittsburgh Arts &amp; <b>Lectures</b>",
+      "link": "http://pittsburghlectures.org/words-pictures/",
+      "displayLink": "pittsburghlectures.org",
+      "snippet": "Words & Pictures presents acclaimed children's authors to readers of all ages. \nCome hear the stories behind your favorite books and have them signed by the ...",
+      "htmlSnippet": "Words &amp; Pictures presents acclaimed children&#39;s authors to readers of all ages. <br>\nCome hear the stories behind your favorite books and have them signed by the&nbsp;...",
+      "cacheId": "0Xp9ouJ2IR8J",
+      "formattedUrl": "pittsburghlectures.org/words-pictures/",
+      "htmlFormattedUrl": "pittsburgh<b>lectures</b>.org/words-pictures/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "240",
+            "height": "160",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHygy2E3KLHo_ck89EpvutuE6Q4q8FfJJTDxdXS-qqpqolXzVsV_0ypEH5"
+          }
+        ],
+        "imageobject": [
+          {
+            "name": "Pittsburgh Arts & Lectures logo",
+            "text": "Pittsburgh Arts & Lectures logo",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061",
+            "sameas": "http://pittsburghlectures.org/book-only/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?resize=150%2C150",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061",
+            "width": "1061",
+            "height": "1061",
+            "encodingformat": "image/png"
+          },
+          {
+            "url": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "contenturl": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "width": "128",
+            "height": "128"
+          },
+          {
+            "name": "Words and Pictures",
+            "url": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?fit=300%2C200",
+            "sameas": "http://pittsburghlectures.org/words-pictures/words-and-pictures/",
+            "thumbnailurl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?resize=150%2C150",
+            "contenturl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?fit=300%2C200",
+            "width": "300",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Sabuda Author Photo",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Sabuda-Author-Photo.png?fit=200%2C200",
+            "sameas": "http://pittsburghlectures.org/words-pictures/sabuda-author-photo/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Sabuda-Author-Photo.png?resize=150%2C150",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Sabuda-Author-Photo.png?fit=200%2C200",
+            "width": "200",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Grabenstein Photo",
+            "url": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Grabenstein-Photo.png?fit=200%2C200",
+            "sameas": "http://pittsburghlectures.org/words-pictures/grabenstein-photo/",
+            "thumbnailurl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Grabenstein-Photo.png?resize=150%2C150",
+            "contenturl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Grabenstein-Photo.png?fit=200%2C200",
+            "width": "200",
+            "height": "200",
+            "encodingformat": "image/png"
+          }
+        ],
+        "person": [
+          {
+            "name": "Shanna",
+            "url": "http://pittsburghlectures.org/author/admin/",
+            "sameas": "http://Pittsburgh%20Arts%20&%20Lectures"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Pittsburgh Arts & Lectures",
+            "description": "Pittsburgh Arts & Lectures connects world class authors and their work with the Pittsburgh community.",
+            "url": "http://pittsburghlectures.org/"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0",
+            "og:site_name": "Pittsburgh Arts & Lectures",
+            "og:type": "article",
+            "og:title": "Words & Pictures",
+            "og:url": "http://pittsburghlectures.org/words-pictures/",
+            "og:description": "Words & Pictures presents acclaimed children’s authors to readers of all ages. Come hear the stories behind your favorite books and have them signed by the author! Presented in Partnership with Carnegie Library of Pittsburgh.",
+            "og:locale": "en_US",
+            "og:updated_time": "2016-10-11T11:14:04+00:00",
+            "og:image": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?fit=300%2C200",
+            "og:image:width": "300",
+            "og:image:height": "200",
+            "og:image:type": "image/png",
+            "article:published_time": "2016-04-01T11:19:34+00:00",
+            "article:modified_time": "2016-10-11T11:14:04+00:00",
+            "article:author": "http://pghartslectures",
+            "article:publisher": "http://pittsburghlectures.org/",
+            "article:tag": "kids lectures",
+            "twitter:card": "summary",
+            "twitter:creator": "@pghartslectures",
+            "twitter:title": "Words & Pictures",
+            "twitter:description": "Words & Pictures presents acclaimed children’s authors to readers of all ages. Come hear the stories behind your favorite books and have them signed by the author! Presented in Partnership with Carnegie Library of Pittsburgh.",
+            "twitter:image:src": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?fit=300%2C200",
+            "twitter:image:width": "300",
+            "twitter:image:height": "200",
+            "msvalidate.01": "97C57121313B7CC3B21946FE472507B7"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?fit=300%2C200"
+          }
+        ],
+        "article": [
+          {
+            "url": "http://pittsburghlectures.org/words-pictures/",
+            "mainentityofpage": "http://pittsburghlectures.org/words-pictures/",
+            "datepublished": "2016-04-01T11:19:34+00:00",
+            "datemodified": "2016-10-11T11:14:04+00:00",
+            "copyrightyear": "2016",
+            "inlanguage": "en_US",
+            "name": "Words & Pictures",
+            "headline": "Words & Pictures",
+            "description": "Words & Pictures presents acclaimed children’s authors to readers of all ages. Come hear the stories behind your favorite books and have them signed by the author! Presented in Partnership...",
+            "keywords": "kids lectures, childrens lectures, ya lectures, young adult readers, kids events, pittsburgh kids, childrens events at carnegie library, black white and read all over, kids and teens series,...",
+            "thumbnailurl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Words-and-Pictures.png?resize=150%2C150",
+            "articlebody": "Words & Pictures presents acclaimed children’s authors to readers of all ages. Come hear the stories behind your favorite books and have them signed by the author! Presented in Partnership..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Patti Smith – Pittsburgh Arts & Lectures",
+      "htmlTitle": "Patti Smith – Pittsburgh Arts &amp; <b>Lectures</b>",
+      "link": "https://pittsburghlectures.org/ten-evenings/patti-smith/",
+      "displayLink": "pittsburghlectures.org",
+      "snippet": "Ten Evenings presented by Pittsburgh Arts & Lectures Patti Smith, Author of Just \nKids and M Train Monday, October 10, 2016 Carnegie Music Hall, 7:30 p.m. ...",
+      "htmlSnippet": "Ten Evenings presented by Pittsburgh Arts &amp; <b>Lectures</b> Patti Smith, Author of Just <br>\nKids and M Train Monday, October 10, 2016 Carnegie Music Hall, 7:30 p.m.&nbsp;...",
+      "cacheId": "S8TbAW6L8YoJ",
+      "formattedUrl": "https://pittsburghlectures.org/ten-evenings/patti-smith/",
+      "htmlFormattedUrl": "https://pittsburgh<b>lectures</b>.org/ten-evenings/patti-smith/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "149",
+            "height": "173",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0wALIAWGYp8kDx5_Mihz0oag2gFhxxokcwRJ9cX0lIR21gwAlcKmyro"
+          }
+        ],
+        "imageobject": [
+          {
+            "name": "Pittsburgh Arts & Lectures logo",
+            "text": "Pittsburgh Arts & Lectures logo",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061&ssl=1",
+            "sameas": "https://pittsburghlectures.org/book-only/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?resize=150%2C150&ssl=1",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061&ssl=1",
+            "width": "1061",
+            "height": "1061",
+            "encodingformat": "image/png"
+          },
+          {
+            "url": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "contenturl": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "width": "128",
+            "height": "128"
+          },
+          {
+            "name": "17_Smith",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?fit=187%2C217&ssl=1",
+            "sameas": "https://pittsburghlectures.org/ten-evenings/patti-smith/17_smith/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?resize=150%2C150&ssl=1",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?fit=187%2C217&ssl=1",
+            "width": "187",
+            "height": "217",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "17_Smith_book",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith_book.png?fit=283%2C407&ssl=1",
+            "sameas": "https://pittsburghlectures.org/ten-evenings/patti-smith/17_smith_book/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith_book.png?resize=150%2C150&ssl=1",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith_book.png?fit=283%2C407&ssl=1",
+            "width": "283",
+            "height": "407",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Smith Paperback Book Photo",
+            "url": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Smith-Paperback-Book-Photo.png?fit=283%2C407&ssl=1",
+            "sameas": "https://pittsburghlectures.org/ten-evenings/patti-smith/smith-paperback-book-photo/",
+            "thumbnailurl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Smith-Paperback-Book-Photo.png?resize=150%2C150&ssl=1",
+            "contenturl": "https://i1.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Smith-Paperback-Book-Photo.png?fit=283%2C407&ssl=1",
+            "width": "283",
+            "height": "407",
+            "encodingformat": "image/png"
+          }
+        ],
+        "person": [
+          {
+            "name": "Shanna",
+            "url": "https://pittsburghlectures.org/author/admin/",
+            "sameas": "http://Pittsburgh%20Arts%20&%20Lectures"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Pittsburgh Arts & Lectures",
+            "description": "Pittsburgh Arts & Lectures connects world class authors and their work with the Pittsburgh community.",
+            "url": "https://pittsburghlectures.org/"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0",
+            "og:site_name": "Pittsburgh Arts & Lectures",
+            "og:type": "article",
+            "og:title": "Patti Smith",
+            "og:url": "https://pittsburghlectures.org/ten-evenings/patti-smith/",
+            "og:description": "Ten Evenings presented by Pittsburgh Arts & Lectures Patti Smith, Author of Just Kids and M Train Monday, October 10, 2016 Carnegie Music Hall, 7:30 p.m. 4400 Forbes Ave Pittsburgh, PA 15213",
+            "og:locale": "en_US",
+            "og:updated_time": "2017-01-10T14:41:41+00:00",
+            "og:image": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?fit=187%2C217&ssl=1",
+            "og:image:secure_url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?fit=187%2C217&ssl=1",
+            "og:image:width": "187",
+            "og:image:height": "217",
+            "og:image:type": "image/png",
+            "article:published_time": "2016-03-28T14:51:37+00:00",
+            "article:modified_time": "2017-01-10T14:41:41+00:00",
+            "article:author": "http://pghartslectures",
+            "article:publisher": "https://pittsburghlectures.org/",
+            "article:tag": "patti smith reading",
+            "twitter:card": "summary",
+            "twitter:creator": "@pghartslectures",
+            "twitter:title": "Patti Smith",
+            "twitter:description": "Ten Evenings presented by Pittsburgh Arts & Lectures Patti Smith, Author of Just Kids and M Train Monday, October 10, 2016 Carnegie Music Hall, 7:30 p.m. 4400 Forbes Ave Pittsburgh, PA 15213",
+            "twitter:image:src": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?fit=187%2C217&ssl=1",
+            "twitter:image:width": "187",
+            "twitter:image:height": "217",
+            "msvalidate.01": "97C57121313B7CC3B21946FE472507B7"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/17_Smith.png?fit=187%2C217&ssl=1"
+          }
+        ],
+        "article": [
+          {
+            "url": "https://pittsburghlectures.org/ten-evenings/patti-smith/",
+            "mainentityofpage": "https://pittsburghlectures.org/ten-evenings/patti-smith/",
+            "datepublished": "2016-03-28T14:51:37+00:00",
+            "datemodified": "2017-01-10T14:41:41+00:00",
+            "copyrightyear": "2016",
+            "inlanguage": "en_US",
+            "name": "Patti Smith",
+            "headline": "Patti Smith",
+            "description": "Ten Evenings presented by Pittsburgh Arts & Lectures Patti Smith, Author of Just Kids and M Train Monday, October 10, 2016 Carnegie Music Hall, 7:30 p.m. 4400 Forbes Ave Pittsburgh, PA 15213",
+            "keywords": "patti smith reading, patti smith pittsburgh,",
+            "articlebody": "Patti Smith, Author of Just Kids and M Train Photo Credit: Jesse Dittmar Monday, October 10, 2016 Carnegie Music Hall, 7:30 pm 4400 Forbes Ave Pittsburgh, PA 15213 Sponsored by Carnegie Library..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ten Evenings – Pittsburgh Arts & Lectures",
+      "htmlTitle": "Ten Evenings – Pittsburgh Arts &amp; <b>Lectures</b>",
+      "link": "http://pittsburghlectures.org/ten-evenings/",
+      "displayLink": "pittsburghlectures.org",
+      "snippet": "Pittsburgh Arts & Lectures presents Ten Evenings of celebrated authors \ngenerously sharing their research and creative process in conversational \nlectures.",
+      "htmlSnippet": "Pittsburgh Arts &amp; <b>Lectures</b> presents Ten Evenings of celebrated authors <br>\ngenerously sharing their research and creative process in conversational <br>\n<b>lectures</b>.",
+      "cacheId": "pENBth0JeskJ",
+      "formattedUrl": "pittsburghlectures.org/ten-evenings/",
+      "htmlFormattedUrl": "pittsburgh<b>lectures</b>.org/ten-evenings/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "240",
+            "height": "160",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60JlGlEJaJnZsmiZMj-v_36ZJbyxmck3ZSggtvLMBk4MeR1ET9l-MLh0"
+          }
+        ],
+        "imageobject": [
+          {
+            "name": "Pittsburgh Arts & Lectures logo",
+            "text": "Pittsburgh Arts & Lectures logo",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061",
+            "sameas": "http://pittsburghlectures.org/book-only/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?resize=150%2C150",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061",
+            "width": "1061",
+            "height": "1061",
+            "encodingformat": "image/png"
+          },
+          {
+            "url": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "contenturl": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "width": "128",
+            "height": "128"
+          },
+          {
+            "name": "PAL-TenEvenings",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/PAL-TenEvenings.png?fit=300%2C200",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/pal-tenevenings/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/PAL-TenEvenings.png?resize=150%2C150",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/PAL-TenEvenings.png?fit=300%2C200",
+            "width": "300",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "17_Rehm",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/17_Rehm.png?fit=187%2C217",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/17_rehm/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/17_Rehm.png?resize=150%2C150",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/17_Rehm.png?fit=187%2C217",
+            "width": "187",
+            "height": "217",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Brinkley_web",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Brinkley_web.png?fit=200%2C200",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/brinkley_web/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Brinkley_web.png?resize=150%2C150",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Brinkley_web.png?fit=200%2C200",
+            "width": "200",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Macdonald_web",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Macdonald_web.png?fit=200%2C200",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/macdonald_web/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Macdonald_web.png?resize=150%2C150",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Macdonald_web.png?fit=200%2C200",
+            "width": "200",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Smith_web",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Smith_web.png?fit=200%2C200",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/smith_web/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Smith_web.png?resize=150%2C150",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Smith_web.png?fit=200%2C200",
+            "width": "200",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "Mukherjee_web",
+            "url": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Mukherjee_web.png?fit=200%2C200",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/mukherjee_web/",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Mukherjee_web.png?resize=150%2C150",
+            "contenturl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/Mukherjee_web.png?fit=200%2C200",
+            "width": "200",
+            "height": "200",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "10e Subscribe button",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/10e-Subscribe-button.png?fit=164%2C44",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/10e-subscribe-button/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/10e-Subscribe-button.png?resize=150%2C44",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/10e-Subscribe-button.png?fit=164%2C44",
+            "width": "164",
+            "height": "44",
+            "encodingformat": "image/png"
+          },
+          {
+            "name": "WYEP",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/mj-logo-color-horiz.jpg?fit=246%2C82",
+            "sameas": "http://pittsburghlectures.org/ten-evenings/mj-logo-bw-2/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/mj-logo-color-horiz.jpg?resize=150%2C82",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/mj-logo-color-horiz.jpg?fit=246%2C82",
+            "width": "246",
+            "height": "82",
+            "encodingformat": "image/jpeg",
+            "text": "WYEP"
+          }
+        ],
+        "person": [
+          {
+            "name": "Shanna",
+            "url": "http://pittsburghlectures.org/author/admin/",
+            "sameas": "http://Pittsburgh%20Arts%20&%20Lectures"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Pittsburgh Arts & Lectures",
+            "description": "Pittsburgh Arts & Lectures connects world class authors and their work with the Pittsburgh community.",
+            "url": "http://pittsburghlectures.org/"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0",
+            "og:site_name": "Pittsburgh Arts & Lectures",
+            "og:type": "article",
+            "og:title": "Ten Evenings",
+            "og:url": "http://pittsburghlectures.org/ten-evenings/",
+            "og:description": "Pittsburgh Arts & Lectures presents Ten Evenings of celebrated authors generously sharing their research and creative process in conversational lectures. Monday nights at the Carnegie Music Hall in Oakland, 7:30 p.m. Made possible by The Drue Heinz Trust.",
+            "og:locale": "en_US",
+            "og:updated_time": "2016-06-01T12:11:49+00:00",
+            "og:image": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/PAL-TenEvenings.png?fit=300%2C200",
+            "og:image:width": "300",
+            "og:image:height": "200",
+            "og:image:type": "image/png",
+            "article:published_time": "2016-02-17T13:22:41+00:00",
+            "article:modified_time": "2016-06-01T12:11:49+00:00",
+            "article:author": "http://pghartslectures",
+            "article:publisher": "http://pittsburghlectures.org/",
+            "article:tag": "drue heinz"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/PAL-TenEvenings.png?fit=300%2C200"
+          }
+        ],
+        "article": [
+          {
+            "url": "http://pittsburghlectures.org/ten-evenings/",
+            "mainentityofpage": "http://pittsburghlectures.org/ten-evenings/",
+            "datepublished": "2016-02-17T13:22:41+00:00",
+            "datemodified": "2016-06-01T12:11:49+00:00",
+            "copyrightyear": "2016",
+            "inlanguage": "en_US",
+            "name": "Ten Evenings",
+            "headline": "Ten Evenings",
+            "description": "Pittsburgh Arts & Lectures presents Ten Evenings of celebrated authors generously sharing their research and creative process in conversational lectures. Monday nights at the Carnegie Music...",
+            "keywords": "drue heinz, dru heinz, lectures, carnegie music hall, carnegie lecture, three rivers lectures, speakers series, oakland lectures, literary evenings, monday night lecture series",
+            "thumbnailurl": "https://i2.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/02/PAL-TenEvenings.png?resize=150%2C150",
+            "articlebody": "Ten Evenings presents celebrated authors generously sharing their research and creative process in conversational lectures. Made possible by the Drue Heinz Trust Monday nights at the Carnegie..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pittsburgh Arts & Lectures Announces Authors for 2016-17 Ten ...",
+      "htmlTitle": "Pittsburgh Arts &amp; <b>Lectures</b> Announces Authors for 2016-17 Ten ...",
+      "link": "https://pittsburghlectures.org/16-17-announcement/",
+      "displayLink": "pittsburghlectures.org",
+      "snippet": "Pittsburgh Arts & Lectures announces its dynamic lineup of accomplished \nauthors scheduled to appear for the 2016-17 series of Ten Evenings, sponsored \nby ...",
+      "htmlSnippet": "Pittsburgh Arts &amp; <b>Lectures</b> announces its dynamic lineup of accomplished <br>\nauthors scheduled to appear for the 2016-17 series of Ten Evenings, sponsored <br>\nby&nbsp;...",
+      "cacheId": "pjAARC4Pm0wJ",
+      "formattedUrl": "https://pittsburghlectures.org/16-17-announcement/",
+      "htmlFormattedUrl": "https://pittsburgh<b>lectures</b>.org/16-17-announcement/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "420",
+            "height": "120",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWpe5-Po8igZfCDMeKgaZRN3fQyZLCy7OUEnMgfMQM2LM-Rf3v8N7Z8Q"
+          }
+        ],
+        "imageobject": [
+          {
+            "name": "Pittsburgh Arts & Lectures logo",
+            "text": "Pittsburgh Arts & Lectures logo",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061&ssl=1",
+            "sameas": "https://pittsburghlectures.org/book-only/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?resize=150%2C150&ssl=1",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/04/Book-Only.png?fit=1061%2C1061&ssl=1",
+            "width": "1061",
+            "height": "1061",
+            "encodingformat": "image/png"
+          },
+          {
+            "url": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "contenturl": "http://www.gravatar.com/avatar/0e1d95a48c706f7ab7256c60bb36e182?s=128",
+            "width": "128",
+            "height": "128"
+          },
+          {
+            "name": "Branding",
+            "url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?fit=1485%2C425&ssl=1",
+            "sameas": "https://pittsburghlectures.org/16-17-announcement/branding/",
+            "thumbnailurl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?resize=150%2C150&ssl=1",
+            "contenturl": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?fit=1485%2C425&ssl=1",
+            "width": "1485",
+            "height": "425",
+            "encodingformat": "image/jpeg"
+          }
+        ],
+        "person": [
+          {
+            "name": "Shanna",
+            "url": "https://pittsburghlectures.org/author/admin/",
+            "sameas": "http://Pittsburgh%20Arts%20&%20Lectures"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Pittsburgh Arts & Lectures",
+            "description": "Pittsburgh Arts & Lectures connects world class authors and their work with the Pittsburgh community.",
+            "url": "https://pittsburghlectures.org/"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0",
+            "og:site_name": "Pittsburgh Arts & Lectures",
+            "og:type": "article",
+            "og:title": "Pittsburgh Arts & Lectures Announces Authors for 2016-17 Ten Evenings, Carnegie Music Hall",
+            "og:url": "https://pittsburghlectures.org/16-17-announcement/",
+            "og:description": "From Pulitzer Prize-Winning Author Siddhartha Mukherjee to “Punk Poet Laureate” Patti Smith, Ten Evenings promises a stellar season Pittsburgh Arts & Lectures announces its dynamic lineup of accomplished authors scheduled to appear for the 2016-17 series of Ten Evenings, sponsored by The Dru...",
+            "og:locale": "en_US",
+            "og:updated_time": "2016-03-29T15:50:58+00:00",
+            "og:image": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?fit=1485%2C425&ssl=1",
+            "og:image:secure_url": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?fit=1485%2C425&ssl=1",
+            "og:image:width": "1485",
+            "og:image:height": "425",
+            "og:image:type": "image/jpeg",
+            "article:published_time": "2016-04-05T10:00:20+00:00",
+            "article:modified_time": "2016-03-29T15:50:58+00:00",
+            "article:author": "http://pghartslectures",
+            "article:publisher": "https://pittsburghlectures.org/",
+            "article:section": "Press Release",
+            "article:tag": "press release",
+            "twitter:card": "summary",
+            "twitter:creator": "@pghartslectures",
+            "twitter:title": "Pittsburgh Arts & Lectures Announces Authors for 2016-17 Ten Evenings, Carnegie Music Hall",
+            "twitter:description": "From Pulitzer Prize-Winning Author Siddhartha Mukherjee to “Punk Poet Laureate” Patti Smith, Ten Evenings promises a stellar season Pittsburgh Arts & Lectures announces its dynamic lineup of accomplished authors scheduled to appear for the 2016-17 series of Ten Evenings, sponsored by The Dru...",
+            "twitter:image:src": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?fit=1485%2C425&ssl=1",
+            "twitter:image:width": "1485",
+            "twitter:image:height": "425",
+            "msvalidate.01": "97C57121313B7CC3B21946FE472507B7"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i0.wp.com/pittsburghlectures.org/wp/wp-content/uploads/2016/03/Branding.jpg?fit=1485%2C425&ssl=1"
+          }
+        ],
+        "article": [
+          {
+            "url": "https://pittsburghlectures.org/16-17-announcement/",
+            "mainentityofpage": "https://pittsburghlectures.org/16-17-announcement/",
+            "datepublished": "2016-04-05T10:00:20+00:00",
+            "datemodified": "2016-03-29T15:50:58+00:00",
+            "copyrightyear": "2016",
+            "inlanguage": "en_US",
+            "name": "Pittsburgh Arts & Lectures Announces Authors for 2016-17 Ten Evenings, Carnegie Music Hall",
+            "headline": "Pittsburgh Arts & Lectures Announces Authors for 2016-17 Ten Evenings, Carnegie Music Hall",
+            "description": "From Pulitzer Prize-Winning Author Siddhartha Mukherjee to “Punk Poet Laureate” Patti Smith, Ten Evenings promises a stellar season Pittsburgh Arts & Lectures announces its dynamic lineup...",
+            "articlesection": "Press Release",
+            "keywords": "press release",
+            "articlebody": "From Pulitzer Prize-Winning Author Siddhartha Mukherjee to “Punk Poet Laureate” Patti Smith, Ten Evenings promises a stellar season Pittsburgh Arts & Lectures announces its dynamic lineup..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Don't Give Up on the Lecture - The Atlantic",
+      "htmlTitle": "Don&#39;t Give Up on the <b>Lecture</b> - The Atlantic",
+      "link": "https://www.theatlantic.com/education/archive/2013/11/dont-give-up-on-the-lecture/281624/",
+      "displayLink": "www.theatlantic.com",
+      "snippet": "Nov 21, 2013 ... Students in a lecture class can give the impression of lethargy: Maybe a student \nsleeps in the back of the classroom, maybe others fidget and ...",
+      "htmlSnippet": "Nov 21, 2013 <b>...</b> Students in a <b>lecture</b> class can give the impression of lethargy: Maybe a student <br>\nsleeps in the back of the classroom, maybe others fidget and&nbsp;...",
+      "cacheId": "xn5un8csNLAJ",
+      "formattedUrl": "https://www.theatlantic.com/education/archive/...lecture/281624/",
+      "htmlFormattedUrl": "https://www.theatlantic.com/education/archive/...<b>lecture</b>/281624/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "296",
+            "height": "170",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHIMLyZSJ7c9VwobBe4X-AgHwNB3m_ddQWCRrRYi24humEXAF7QSVmJW4"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/03/RTS10YML/hero_wide_640.jpg?1488579518",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/2015/03/WEL_Glaser_AA_Margarita/hero_wide_640.jpg?1429715776",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/03/RTX2XFVJ/hero_wide_640.jpg?1488577323",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/02/8B38215A_75/hero_wide_640.jpg?1488218913",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/03/RTX2SOR4_1/hero_wide_640.jpg?1488397925",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/03/RTR2LNVW/hero_wide_640.jpg?1488733571",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/03/RTS11FFA/hero_wide_640.jpg?1488726309",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/02/GettyImages_73040911/hero_wide_640.jpg?1488318093",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/02/GettyImages_632781806/hero_wide_640.jpg?1488225747",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/03/RTSZXR0/hero_wide_640.jpg?1488475352",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/video/img/2017/02/Nye2/hero_wide_640.jpg?1488211875",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/video/img/2017/02/Chim6/hero_wide_640.jpg?1487370619",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/media/video/img/2017/02/70Acres_Demolition5-1/hero_wide_640.jpg?1488213201",
+            "width": "640",
+            "height": "400"
+          },
+          {
+            "url": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/logo-black.c2cba3f6478a.png",
+            "width": "150",
+            "height": "50"
+          }
+        ],
+        "person": [
+          {
+            "url": "Abigail Walthausen",
+            "name": "Abigail Walthausen"
+          },
+          {
+            "url": "Russell Berman",
+            "name": "Russell Berman"
+          },
+          {
+            "url": "Gabrielle Glaser",
+            "name": "Gabrielle Glaser"
+          },
+          {
+            "url": "Derek Thompson",
+            "name": "Derek Thompson"
+          },
+          {
+            "url": "Alex Wagner",
+            "name": "Alex Wagner"
+          },
+          {
+            "url": "Emma Green",
+            "name": "Emma Green"
+          },
+          {
+            "url": "Adrienne LaFrance",
+            "name": "Adrienne LaFrance"
+          },
+          {
+            "url": "Yoni Appelbaum",
+            "name": "Yoni Appelbaum"
+          },
+          {
+            "url": "Michael French",
+            "name": "Michael French"
+          },
+          {
+            "url": "Julia Ioffe",
+            "name": "Julia Ioffe"
+          },
+          {
+            "url": "Strobe Talbott",
+            "name": "Strobe Talbott"
+          },
+          {
+            "url": "Jessica Brandt",
+            "name": "Jessica Brandt"
+          },
+          {
+            "url": "Jackie Lay",
+            "name": "Jackie Lay"
+          },
+          {
+            "url": "Daniel Lombroso",
+            "name": "Daniel Lombroso"
+          },
+          {
+            "url": "Jackie Lay",
+            "name": "Jackie Lay"
+          },
+          {
+            "url": "Daniel Lombroso",
+            "name": "Daniel Lombroso"
+          },
+          {
+            "url": "Nadine Ajaka",
+            "name": "Nadine Ajaka"
+          }
+        ],
+        "organization": [
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          },
+          {
+            "name": "The Atlantic"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable=no",
+            "referrer": "unsafe-url",
+            "og:site_name": "The Atlantic",
+            "og:locale": "en_US",
+            "fb:admins": "577048155,17301937",
+            "fb:app_id": "100770816677686",
+            "p:domain_verify": "68e1a0361a557708fefc992f3309ed70",
+            "og:title": "Don't Give Up on the Lecture",
+            "og:type": "article",
+            "og:url": "http://www.theatlantic.com/education/archive/2013/11/dont-give-up-on-the-lecture/281624/",
+            "og:image": "https://cdn.theatlantic.com/assets/media/img/mt/2013/11/Walthausen_lectures_post/lead_large.jpg",
+            "og:description": "Teachers who stand in front of their classes and deliver instruction are not \"out-of-touch experts\"—they&#39;re role models.",
+            "author": "Abigail Walthausen",
+            "twitter:site": "@theatlantic",
+            "twitter:domain": "theatlantic.com",
+            "twitter:card": "summary",
+            "twitter:image:src": "https://cdn.theatlantic.com/assets/media/img/mt/2013/11/Walthausen_lectures_post/lead_large.jpg",
+            "krux:title": "Don't Give Up on the Lecture",
+            "krux:description": "Teachers who stand in front of their classes and deliver instruction are not \"out-of-touch experts\"—they&#39;re role models."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.theatlantic.com/assets/media/img/mt/2013/11/Walthausen_lectures_post/lead_large.jpg"
+          }
+        ],
+        "newsarticle": [
+          {
+            "mainentityofpage": "https://www.theatlantic.com/education/archive/2013/11/dont-give-up-on-the-lecture/281624/",
+            "datemodified": "2013-11-21T08:53:30",
+            "headline": "Don't Give Up on the Lecture",
+            "description": "Teachers who stand in front of their classes and deliver instruction are not \"out-of-touch experts\"—they're role models.",
+            "datepublished": "2013-11-21T08:53:00",
+            "articlebody": "Like ​The Atlantic? Subscribe to ​The Atlantic Daily​, our free weekday email newsletter. Shaylor/FlickrStudents in a lecture class can give the impression of lethargy: Maybe a student..."
+          },
+          {
+            "mainentityofpage": "Jim Lo Scalzo / Reuters / Pool It's Do-or-Die for Repeal-and-Replace",
+            "headline": "It's Do-or-Die for Repeal-and-Replace",
+            "datepublished": "2017-03-06T04:50:00",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "The long-awaited Republican alternative to Obamacare is due out this week, but the scramble for votes has already begun. “We’ll go through the gate,” the speaker of the House vowed. “If..."
+          },
+          {
+            "mainentityofpage": "Dan Saelinger The Irrationality of Alcoholics Anonymous",
+            "headline": "The Irrationality of Alcoholics Anonymous",
+            "datepublished": "2015-03-16T20:25:23",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "Its faith-based 12-step program dominates treatment in the United States. But researchers have debunked central tenets of AA doctrine and found dozens of other treatments more effective. J.G...."
+          },
+          {
+            "mainentityofpage": "Rick Wilking / Reuters Have Americans Given Up?",
+            "headline": "Have Americans Given Up?",
+            "datepublished": "2017-03-05T13:05:00",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "A new book by Tyler Cowen argues that when it comes to innovation and dynamism, the country is all talk. Americans have fallen in love with the idea of their entrepreneurial spirit. Silicon..."
+          },
+          {
+            "mainentityofpage": "Dorothea Lange/Library of Congress America’s Brutal, Forgotten History of Illegal Deportations",
+            "headline": "America’s Brutal, Forgotten History of Illegal Deportations",
+            "datepublished": "2017-03-06T04:00:00",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "In the late 1920s and early 1930s, the country carried out a wave of illegal raids and deportations that affected as many as 1.8 million people. Are we on the verge of making the same mistakes..."
+          },
+          {
+            "mainentityofpage": "Joshua Roberts / Reuters The Death of Community and the Rise of Trump",
+            "headline": "The Death of Community and the Rise of Trump",
+            "datepublished": "2017-03-05T05:00:00",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "What does a decreasing attachment to religious and civic institutions in white, working-class America mean for the country's political future? In 2016, 57 percent of white Americans who voted..."
+          },
+          {
+            "mainentityofpage": "The White House / Reuters Why Is Trump Returning to Birther-Style Attacks on Obama?",
+            "headline": "Why Is Trump Returning to Birther-Style Attacks on Obama?",
+            "datepublished": "2017-03-05T12:08:13",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "Attempts to delegitimize Barack Obama are a classic page in the Trump playbook. It was a long 25 hours. But the White House ended its silence Sunday morning with an official statement responding..."
+          },
+          {
+            "mainentityofpage": "Jonathan Ernst / Reuters The White House Declines to Substantiate Trump's Wiretapping Claims",
+            "headline": "The White House Declines to Substantiate Trump's Wiretapping Claims",
+            "datepublished": "2017-03-05T10:05:08",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "A day after the Trump charges “Nixon/Watergate” level misconduct by his predecessor, the administration says that “neither the White House nor the president will comment further.” A..."
+          },
+          {
+            "mainentityofpage": "Jay Directo / AFP / Getty The New Atheists of the Philippines",
+            "headline": "The New Atheists of the Philippines",
+            "datepublished": "2017-03-05T04:50:00",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "Their style is less Richard Dawkins, more Christian missionary. Among filthy puddles of rainwater in a slum in Alabang, a district just south of the Philippines’ capital city of Manila, a..."
+          },
+          {
+            "mainentityofpage": "Win McNamee / Getty The State of Trump's State Department",
+            "headline": "The State of Trump's State Department",
+            "datepublished": "2017-03-01T11:22:30",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "Anxiety and listless days as a foreign-policy bureaucracy confronts the possibility of radical change The flags in the lobby of the State Department stood bathed in sunlight and silence on..."
+          },
+          {
+            "mainentityofpage": "Sergei Karpukhin / Reuters What Putin Is Up To",
+            "headline": "What Putin Is Up To",
+            "datepublished": "2017-03-02T15:32:04",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "And why he may have overplayed his hand Each year on December 20, the Russian intelligence community pays homage to its enduring guardianship of the Motherland. It was on this date in 1917,..."
+          },
+          {
+            "mainentityofpage": "Bill Nye on the Nature of Regret",
+            "headline": "Bill Nye on the Nature of Regret",
+            "datepublished": "2017-02-27T11:19:48",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "In an animated interview, the scientist describes the importance of taking chances."
+          },
+          {
+            "mainentityofpage": "Chimamanda Adichie on What Americans Get Wrong About Africa",
+            "headline": "Chimamanda Adichie on What Americans Get Wrong About Africa",
+            "datepublished": "2017-02-20T09:00:00",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "In an animated interview, the author explains the problem with stereotypes."
+          },
+          {
+            "mainentityofpage": "Cabrini Green and Chicago's Public Housing Disaster",
+            "headline": "Cabrini Green and Chicago's Public Housing Disaster",
+            "datepublished": "2017-02-27T12:56:51",
+            "datemodified": "2017-03-06T11:22:48",
+            "description": "A documentary filmed over the course of 20 years tells the story of a disenfranchised community pushed out of their homes."
+          }
+        ]
+      }
+    }
+  ]
+}
