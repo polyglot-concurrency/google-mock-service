@@ -30,7 +30,7 @@ object google extends App with JsonSupport {
 
   import akka.http.scaladsl.server.Directives._
 
-  val lines = scala.io.Source.fromFile("google.json").mkString
+  val lines = scala.io.Source.fromFile("google.json", "UTF-8").mkString
 
   val route: Route =
     get {
