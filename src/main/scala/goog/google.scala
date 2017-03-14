@@ -14,7 +14,7 @@ import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
 import spray.json._
 
 import scala.io.StdIn
-import scala.util.{Failure, Success}
+import scala.util.{ Failure, Success }
 
 final case class Item(name: String, pos: Int)
 
@@ -38,6 +38,8 @@ object google extends App with JsonSupport {
         //        val r = List(Item("thing", 42), Item("thing", 42), Item("thing", 21))
         //        println("Sending: " + r.mkString(""))
         //        complete(r)
+
+        println("GOOGLE")
 
         complete(lines)
 
